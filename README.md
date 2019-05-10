@@ -1,37 +1,11 @@
 ## Welcome to Cum Pages
 
-You can use the [editor on GitHub](https://github.com/developers-guild/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Link to github.io page displaying the website: https://developers-guild.github.io/website/
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Plan (from Mathieu):
+- Core css/page format made with Bootstrap
+- Server website/server hosted in node.js + express.js (not going to apply to github.io - only once we host it ourselves)
+- If we need a database, mongoDb?
+- Don't use jekyll
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/developers-guild/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+i was going to start working on it but actually im not really down and i have no idea what the contents really should be yet
