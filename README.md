@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Cum Pages
 
 You can use the [editor on GitHub](https://github.com/developers-guild/website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
